@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 const initialShoes = [
-  { id: 1, name: "Air Max Pro Kicks", category: "Sneakers", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\.png"},
+  { id: 1, name: "Air Max Pro Kicks", category: "Sneakers", price: 3950, img: "https://i.postimg.cc/zfx1r1xv/2.png"},
   { id: 2, name: "Premium Office Loafers", category: "Formal", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 122017.png" },
   { id: 3, name: "Alpha Track Joggers", category: "Sports", price: 3400, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 122110.png" },
   { id: 4, name: "Retro White High-Tops", category: "Sneakers", price: 2900, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121906.png" },
