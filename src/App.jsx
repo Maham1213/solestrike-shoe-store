@@ -3,14 +3,14 @@ import './App.css';
 
 const initialShoes = [
   { id: 1, name: "Air Max Pro Kicks", category: "Sneakers", price: 3950, img: "https://i.postimg.cc/zfx1r1xv/2.png"},
-  { id: 2, name: "Premium Office Loafers", category: "Formal", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 122017.png" },
-  { id: 3, name: "Alpha Track Joggers", category: "Sports", price: 3400, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 122110.png" },
-  { id: 4, name: "Retro White High-Tops", category: "Sneakers", price: 2900, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121906.png" },
-  { id: 5, name: "Classic Suede Oxfords", category: "Formal", price: 3600, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121833.png" },
-  { id: 6, name: "HyperLight Running Shoes", category: "Sports", price: 3400, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121753.png" },
-  { id: 7, name: "Urban Skater Sneaker", category: "Sneakers", price: 3200, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121716.png" },
-  { id: 8, name: "Executive Dress Shoes", category: "Formal", price: 3800, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121609.png" },
-  { id: 9, name: "Pro-Trainer Slip-Ons", category: "Sports", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121458.png" }
+  { id: 2, name: "Premium Office Loafers", category: "Formal", price: 4000, img: "https://i.postimg.cc/8zPSn5bK/2-(2).png" },
+  { id: 3, name: "Alpha Track Joggers", category: "Sports", price: 3400, img: "https://i.postimg.cc/m2TftDKg/Screenshot-2026-10-31-122110.png" },
+  { id: 4, name: "Retro White High-Tops", category: "Sneakers", price: 2999, img: "https://i.postimg.cc/NMRS0q49/Screenshot-2026-10-31-121906.png" },
+  { id: 5, name: "Classic Suede Oxfords", category: "Formal", price: 3600, img: "https://i.postimg.cc/J7cSV806/Screenshot-2026-10-31-121833.png" },
+  { id: 6, name: "HyperLight Running Shoes", category: "Sports", price: 3400, img: "https://i.postimg.cc/jSW85YqL/Screenshot-2026-10-31-121753.png" },
+  { id: 7, name: "Urban Skater Sneaker", category: "Sneakers", price: 3200, img: "https://i.postimg.cc/0QCn38Zg/Screenshot-2026-10-31-121716.png" },
+  { id: 8, name: "Executive Dress Shoes", category: "Formal", price: 3800, img: "https://i.postimg.cc/XJxKLsNP/Screenshot-2026-10-31-121609.png" },
+  { id: 9, name: "Pro-Trainer Slip-Ons", category: "Sports", price: 3950, img: "https://i.postimg.cc/vHCr0gyj/Screenshot-2026-10-31-121458.png" }
 ];
 
 function App() {
