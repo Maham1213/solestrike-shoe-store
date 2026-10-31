@@ -2,15 +2,15 @@ import React, { useState } from 'react';
 import './App.css';
 
 const initialShoes = [
-  { id: 1, name: "Air Max Pro Kicks", category: "Sneakers", price: 3800, img: "https://unsplash.com" },
-  { id: 2, name: "Premium Office Loafers", category: "Formal", price: 3950, img: "https://unsplash.com" },
-  { id: 3, name: "Alpha Track Joggers", category: "Sports", price: 3400, img: "https://unsplash.com" },
-  { id: 4, name: "Retro White High-Tops", category: "Sneakers", price: 2900, img: "https://unsplash.com" },
-  { id: 5, name: "Classic Suede Oxfords", category: "Formal", price: 3600, img: "https://unsplash.com" },
-  { id: 6, name: "HyperLight Running Shoes", category: "Sports", price: 2400, img: "https://unsplash.com" },
-  { id: 7, name: "Urban Skater Sneaker", category: "Sneakers", price: 2200, img: "https://unsplash.com" },
-  { id: 8, name: "Executive Dress Shoes", category: "Formal", price: 3800, img: "https://unsplash.com" },
-  { id: 9, name: "Pro-Trainer Slip-Ons", category: "Sports", price: 1950, img: "https://unsplash.com" }
+  { id: 1, name: "Air Max Pro Kicks", category: "Sneakers", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\.png"},
+  { id: 2, name: "Premium Office Loafers", category: "Formal", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 122017.png" },
+  { id: 3, name: "Alpha Track Joggers", category: "Sports", price: 3400, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 122110.png" },
+  { id: 4, name: "Retro White High-Tops", category: "Sneakers", price: 2900, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121906.png" },
+  { id: 5, name: "Classic Suede Oxfords", category: "Formal", price: 3600, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121833.png" },
+  { id: 6, name: "HyperLight Running Shoes", category: "Sports", price: 3400, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121753.png" },
+  { id: 7, name: "Urban Skater Sneaker", category: "Sneakers", price: 3200, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121716.png" },
+  { id: 8, name: "Executive Dress Shoes", category: "Formal", price: 3800, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121609.png" },
+  { id: 9, name: "Pro-Trainer Slip-Ons", category: "Sports", price: 3950, img: "c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 121458.png" }
 ];
 
 function App() {
